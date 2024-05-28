@@ -1,16 +1,6 @@
-To provide detailed documentation for interacting with the deployed application, including step-by-step instructions, we'll create a README file. This file will cover the following:
-
-1. Prerequisites
-2. Deployment Steps
-3. Verifying the Application
-4. Port Forwarding and Accessing the Application
-5. Example API Usage
-
-Here's the complete README file:
-
 ---
 
-# SIT323-6P Application Deployment and Access Guide
+# SIT323-6C Application Deployment and Access Guide
 
 ## Prerequisites
 
